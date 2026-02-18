@@ -13,4 +13,15 @@ A simple, modern **Streamlit portfolio web app** with a sidebar menu and styled 
 - **Streamlit**
 - **Pandas / NumPy** (imported for data support and future extension)
 
+## Prerequisites
+- Python 3.9+ recommended
+- pip (comes with Python)
+
+git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
+
+pip install streamlit pandas numpy
+
+streamlit run app_profiler_menus.py
+
 
